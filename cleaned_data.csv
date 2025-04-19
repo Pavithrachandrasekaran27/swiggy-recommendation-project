@@ -1,0 +1,6 @@
+id,name,city,rating,rating_count,cost,cuisine,lic_no,link,address,menu
+1,Spice Garden,Bangalore,4.2,150,700,Indian,LIC123,link1,Address 1,Menu 1
+2,Pizza Hub,Delhi,3.8,200,500,Italian,LIC456,link2,Address 2,Menu 2
+3,Sushi Central,Mumbai,4.5,90,1000,Japanese,LIC789,link3,Address 3,Menu 3
+4,Biryani King,Hyderabad,4.0,300,600,Indian,LIC321,link4,Address 4,Menu 4
+5,Taco Fiesta,Pune,3.9,110,400,Mexican,LIC654,link5,Address 5,Menu 5
